@@ -1,0 +1,5 @@
+C:/Users/azizh/Desktop/4Gamix/Unity/VRSP24/.utmp/RelWithDebInfo/i3h4f1l2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/azizh/Desktop/4Gamix/Unity/VRSP24/.utmp/RelWithDebInfo/i3h4f1l2/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/azizh/Desktop/4Gamix/Unity/VRSP24/.utmp/RelWithDebInfo/i3h4f1l2/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/azizh/Desktop/4Gamix/Unity/VRSP24/.utmp/RelWithDebInfo/i3h4f1l2/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/azizh/Desktop/4Gamix/Unity/VRSP24/.utmp/RelWithDebInfo/i3h4f1l2/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
